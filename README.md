@@ -20,5 +20,5 @@ _Aplicación que permite escribir una palabra y detectar si es un palíndromo._
 ![Captura de Pantalla 2](https://raw.githubusercontent.com/HecNajera/Checador-de-palindromos/main/screenshots/palindromo2.png)
 _Si la palabra no es un palíndromo aparecerá un mensaje explicando que no es un palíndromo._
 
-![Captura de Pantalla 3](https://raw.githubusercontent.com/HecNajera/Checador-de-palindromos/main/screenshots/palindromo3.png)
+![Captura de Pantalla 3](https://raw.githubusercontent.com/HecNajera/Checador-de-palindromos/main/screenshots/palindromo.png)
 _Si la palabra es un palíndromo aparecerá un mensaje de felicitaciones y aparecerá en el fondo una animación de confetti._
